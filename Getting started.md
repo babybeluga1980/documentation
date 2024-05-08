@@ -30,7 +30,7 @@ First, Search and install the Early AI extension and log-in to your account
 * Click on the Coverage Refresh button
 * Reload Window (>Developer: Reload-Window)
 
-![test image](https://github.com/babybeluga1980/documentation/blob/a4a6fa81b08b7e5912b56f3f6c6e5e6203ca6f90/media/test.png)
+![test image](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663bdd5109efd15499b97d7a_test1.png)
 
 [Image here]
 Early AI Extension – initial setup
