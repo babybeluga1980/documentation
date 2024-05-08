@@ -5,7 +5,7 @@
 This document will enable you generating your first 20 unit tests in less then 5 min using early AI’s VSCode extension via a sample pre-configured typescript/jest project.
 
 Sample Project setup
-* Clone project: https://github.com/earlyai/sample-project-microservices 
+* Clone project: https://github.com/earlyai/sample-project 
 * Run the following command on the VSCode terminal:
 ```
 npm install
@@ -30,7 +30,7 @@ First, Search and install the Early AI extension and log-in to your account
 * Click on the Coverage Refresh button
 * Reload Window (>Developer: Reload Window)
 
-[test image](https://github.com/babybeluga1980/documentation/blob/a4a6fa81b08b7e5912b56f3f6c6e5e6203ca6f90/media/test.png)
+![test image](https://github.com/babybeluga1980/documentation/blob/a4a6fa81b08b7e5912b56f3f6c6e5e6203ca6f90/media/test.png)
 
 [Image here]
 Early AI Extension – initial setup
