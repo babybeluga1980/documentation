@@ -15,7 +15,8 @@ npm install
 ```
 Run Build
 ```
-[Link to image]
+
+![npm](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be67189425152535939b4_npmscript.png)
 * You should get the message 
 ```webpack 5.90.1 compiled successfully in xxx ms”```
 
@@ -30,26 +31,25 @@ First, Search and install the Early AI extension and log-in to your account
 * Click on the Coverage Refresh button
 * Reload Window (>Developer: Reload-Window)
 
-![test image](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663bdd5109efd15499b97d7a_test1.png)
+![Extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be671b200d5941d97168b_initialSetup.png)
 
-[Image here]
 Early AI Extension – initial setup
 
  
 ## Post initial Early’s extension setup:
 **Browse the extension screens** 
-1.	  [Code explorer image here] Tree of all the testable methods
+1.	  *CODE EXPLORER* Tree of all the testable methods
 * Shows all testable (public) methods in the project 
 * Next to each method it shows the code coverage of the unit tests that testing that method.
-* [button image here] “Play button” – next to public method names – generate unit tests 
-* [refresh image here] “Refresh” coverage button – next to the project name
+* “Play button” – next to public method names – generate unit tests 
+* “Refresh” coverage button – next to the project name
 
 
 2.	 [test explorer image here] Shows all the existing unit tests in the project. 
 o	Clicking on the “play” button next to each level of that tree executes all tests below that level.
 o	Note that there is one sample unit tests under apps/test/sample.early.test.ts. this is required for the initial work of the extension. 
 
-[Image here]
+[extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be672d69d5cabd86f1081_Extension.png)
 Early AI Extension
 
 **Generating unit tests for methods**
@@ -58,7 +58,7 @@ Early AI Extension
 * [Generate test image here]  Code lens above each public method name on the code viewer
 
 Once you generate a test a VSCode notification bar will pop up on the bottom right corner until the generation is completed. Test generation can take anyways from 20-60 seconds depends on the complexity of the code base and API response time.
-[Insert image here]
+[GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be671f91da71e57b6c8aa_GenerateTests.png)
 Generating tests
  
  ## Generate and refresh the code Coverage ##
@@ -73,7 +73,7 @@ Currently we generate “Green” and “Red” unit tests.
 Green are healthy passing unit tests
 
 Red could be erroneous unit tests (bare with us until we improve the product) OR “good” tests that are revealing a bug.
-[Insert image here]
+[RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be6711082e0f1590fd508_RefreshCoverage.png)
 Refreshing coverage
 
 ## Next: ## 
