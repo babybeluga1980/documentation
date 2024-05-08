@@ -30,7 +30,7 @@ First, Search and install the Early AI extension and log-in to your account
 * Click on the Coverage Refresh button
 * Reload Window (>Developer: Reload Window)
 
-<img src="https://github.com/babybeluga1980/documentation/blob/a4a6fa81b08b7e5912b56f3f6c6e5e6203ca6f90/media/test.png" alt="first image" title="Optional title" width="300">
+<img src="https://github.com/babybeluga1980/documentation/blob/a4a6fa81b08b7e5912b56f3f6c6e5e6203ca6f90/media/test.png" alt="first image" title="Optional title" width="800">
 
 
 [Image here]
