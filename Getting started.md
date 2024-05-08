@@ -1,6 +1,6 @@
 # Getting started
 
-**Generating your first 20 unit tests using Early’s VSCode Extension**
+## Generating your first 20 unit tests using Early’s VSCode Extension
 
 This document will enable you generating your first 20 unit tests in less then 5 min using early AI’s VSCode extension via a sample pre-configured typescript/jest project.
 
@@ -49,19 +49,19 @@ Early AI Extension – initial setup
 o	Clicking on the “play” button next to each level of that tree executes all tests below that level.
 o	Note that there is one sample unit tests under apps/test/sample.early.test.ts. this is required for the initial work of the extension. 
 
-[extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be672d69d5cabd86f1081_Extension.png)
+![extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be672d69d5cabd86f1081_Extension.png)
 Early AI Extension
 
-**Generating unit tests for methods**
+## Generating unit tests for methods
 *There are two ways to generate unit tests*
 * [play button image here] Play button via the code explorer, next to the public method name.
 * [Generate test image here]  Code lens above each public method name on the code viewer
 
 Once you generate a test a VSCode notification bar will pop up on the bottom right corner until the generation is completed. Test generation can take anyways from 20-60 seconds depends on the complexity of the code base and API response time.
-[GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be671f91da71e57b6c8aa_GenerateTests.png)
+![GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be671f91da71e57b6c8aa_GenerateTests.png)
 Generating tests
  
- ## Generate and refresh the code Coverage ##
+ ## Generate and refresh the code Coverage 
 **Now you are ready to generate tests for this entire sample project**
 
 * Click on each public method
@@ -73,8 +73,8 @@ Currently we generate “Green” and “Red” unit tests.
 Green are healthy passing unit tests
 
 Red could be erroneous unit tests (bare with us until we improve the product) OR “good” tests that are revealing a bug.
-[RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be6711082e0f1590fd508_RefreshCoverage.png)
+![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be6711082e0f1590fd508_RefreshCoverage.png)
 Refreshing coverage
 
-## Next: ## 
+## Next:
 Follow the setup and configuration document to setup your own projects and start generating meaningful unit tests for your code.
