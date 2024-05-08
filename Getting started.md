@@ -28,7 +28,7 @@ First, Search and install the Early AI extension and log-in to your account
 * Click on Early Extension icon on the left bar
 * Run the tests – verify they are green (if not go back to project setup stage)
 * Click on the Coverage Refresh button
-* Reload Window (>Developer: Reload Window)
+* Reload Window (>Developer: Reload-Window)
 
 ![test image](https://github.com/babybeluga1980/documentation/blob/a4a6fa81b08b7e5912b56f3f6c6e5e6203ca6f90/media/test.png)
 
