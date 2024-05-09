@@ -29,7 +29,7 @@ Run Build
 </figure>
 
 * The sample project Setup is completed
-
+<br>
 
 ## Step 2 - Install the extension
 **Install Early AI VSCode Extension via MSFT market-Place**
@@ -41,7 +41,7 @@ First, Search and install for the **Early AI** extension and log-in to your acco
     <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c6ec6c27fae3ce11aec89_Market%20place.png"
          alt="build the project" width=300 >
 </figure>
-
+<br>
 
 ## Step 3 - Run the project
 
@@ -53,7 +53,7 @@ First, Search and install for the **Early AI** extension and log-in to your acco
     <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be671b200d5941d97168b_initialSetup.png"
          alt="build the project" width=800 >
 </figure>
-
+<br>
 
 
  
@@ -79,7 +79,7 @@ First, Search and install for the **Early AI** extension and log-in to your acco
 * Note that there is one sample unit tests under apps/test/sample.early.test.ts. this is required for the initial work of the extension. 
 
 ![extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d9cdcc01126dc9fcf7_Extension.png)
-
+<br>
 
 
 ## Step 5 - Generating your first tests
@@ -90,8 +90,7 @@ First, Search and install for the **Early AI** extension and log-in to your acco
 
 Once you generate a test a VSCode notification bar will pop up on the bottom right corner until the generation is completed. Test generation can take anyways from 20-60 seconds depends on the complexity of the code base and API response time.
 ![GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d8cdcc01126dc9fcdb_GenerateTests.png)
-
- 
+<br> 
 
 ## Step 6 -  Generate and refreshing Coverage 
 **Now you are ready to generate tests for this entire sample project**
@@ -106,7 +105,7 @@ Green are healthy passing unit tests
 
 Red could be erroneous unit tests (bare with us until we improve the product) OR “good” tests that are revealing a bug.
 ![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d85829aad6b012e157_RefreshCoverage.png)
-
+<br>
 
 ## What's Next:
 Follow the setup and configuration document to setup your own projects and start generating meaningful unit tests for your code.
