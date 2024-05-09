@@ -110,5 +110,5 @@ Red could be erroneous unit tests (bare with us until we improve the product) OR
 <br>
 
 ## What's Next:
-Follow the setup and configuration document to setup your own projects and start generating meaningful unit tests for your code.
+Follow the ![setup and configuration document](https://www.startearly.ai/elements/setup-and-configuration-guide) to setup your own projects and start generating meaningful unit tests for your code.
 
