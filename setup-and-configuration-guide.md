@@ -67,7 +67,8 @@ If your project lacks any tests, begin by creating a basic test file or taking t
 
 * Place the test file in a directory included in the collectCoverageFrom array specified in your Jest configuration to ensure it contributes to the coverage report.
 * Save the following content in a file named test/sample.early.test.ts within the test folder under your source directory:
-```describe('Early Technologies Sample Tests', () => {
+```
+describe('Early Technologies Sample Tests', () => {
   it('Sample Test: Should validate true condition', () => {
     expect(true).toBeTruthy();
   });
