@@ -93,9 +93,10 @@ First, Search and install for the **Early AI** extension and log-in to your acco
 
 ## Step 5 - Generating your first tests
 **Generating unit tests for methods/functions**
-*There are two ways to generate unit tests*
 
-<span>1. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c7d2b6b8c8aabaa629b7f_Play.png" width=20 />  <span>   Play button via the code explorer, next to the public method/function name.  
+There are two ways to generate unit tests
+
+ <span>1. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c7d2b6b8c8aabaa629b7f_Play.png" width=20 />  <span>   Play button via the code explorer, next to the public method/function name.  
  </span>
 
 <span>2. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663cb680268c302f4e39b758_GenerateTest1.png" width=100 />  <span>  "Generate tests" Code lens above each public method/function name on the code editor.  
