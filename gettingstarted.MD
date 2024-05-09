@@ -28,8 +28,10 @@ Run Build
 <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be67125f8f71f7cdb2aad_buildnest.png" alt="build the project" width=400 >
 </figure>
 
-* The sample project Setup is completed
+> The sample project Setup is completed
+
 <br>
+
 
 ## Step 2 - Install the extension
 **Install Early AI VSCode Extension via MSFT market-Place**
