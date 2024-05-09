@@ -28,7 +28,7 @@ Run Build
 <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be67125f8f71f7cdb2aad_buildnest.png" alt="build the project" width=400 >
 </figure>
 
-> The sample project Setup is completed
+* The sample project Setup is completed
 
 
 ## Step 2 - Install the extension
@@ -42,6 +42,7 @@ First, Search and install for the **Early AI** extension and log-in to your acco
          alt="build the project" width=300 >
 </figure>
 
+
 ## Step 3 - Run the project
 
 * Click on Early Extension icon on the left bar
@@ -52,13 +53,13 @@ First, Search and install for the **Early AI** extension and log-in to your acco
     <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be671b200d5941d97168b_initialSetup.png"
          alt="build the project" width=800 >
 </figure>
-
-Early AI Extension – initial setup
+####Early AI Extension – initial setup
 
  
 ## Step 4 - Using the extension
 
 **Browse the extension screens** 
+
  <span>1. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c7e0c461b99a8e3ccaea1_Code%20Explorer.png" width=100 />  <span>  A tree of all the testable methods 
  </span>
  * Shows all testable (public) methods in the project 
@@ -77,7 +78,7 @@ Early AI Extension – initial setup
 * Note that there is one sample unit tests under apps/test/sample.early.test.ts. this is required for the initial work of the extension. 
 
 ![extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d9cdcc01126dc9fcf7_Extension.png)
-Early AI Extension
+####Early AI Extension
 
 
 ## Step 5 - Generating your first tests
@@ -88,7 +89,7 @@ Early AI Extension
 
 Once you generate a test a VSCode notification bar will pop up on the bottom right corner until the generation is completed. Test generation can take anyways from 20-60 seconds depends on the complexity of the code base and API response time.
 ![GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d8cdcc01126dc9fcdb_GenerateTests.png)
-Generating tests
+####Generating tests
  
 
 ## Step 6 -  Generate and refreshing Coverage 
@@ -104,7 +105,7 @@ Green are healthy passing unit tests
 
 Red could be erroneous unit tests (bare with us until we improve the product) OR “good” tests that are revealing a bug.
 ![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d85829aad6b012e157_RefreshCoverage.png)
-Refreshing coverage
+####Refreshing coverage
 
 ## What's Next:
 Follow the setup and configuration document to setup your own projects and start generating meaningful unit tests for your code.
