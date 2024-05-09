@@ -1,7 +1,8 @@
 
 # Getting started
 
-## Generating your first 20 unit tests using Early’s VSCode Extension
+## Step 1 - Sample project setup
+**Generating your first 20 unit tests using Early’s VSCode Extension**
 
 This document will enable you generating your first 20 unit tests in less then 5 min using early AI’s VSCode extension via a sample pre-configured typescript/jest project.
 
@@ -22,12 +23,21 @@ Run Build
 </figure>
 * You should get the message 
 ```webpack 5.90.1 compiled successfully in xxx ms”```
+<figure>
+<img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be67125f8f71f7cdb2aad_buildnest.png" alt="build the project" width=400 >
+</figure>
 
->The sample project Setup is completed
+> The sample project Setup is completed
 
-## Install Early AI VSCode Extension via MSFT market-Place
+## Step 2 - Install the extension
+**Install Early AI VSCode Extension via MSFT market-Place**
 
 First, Search and install the Early AI extension and log-in to your account
+* Search for the extension on VSCode market place and install it
+* Open the extension and log in using the welcome to our beta email information (you will need access to your email for firebase authentication)
+
+
+## Step 3 - Run the project
 
 * Click on Early Extension icon on the left bar
 * Run the tests – verify they are green (if not go back to project setup stage)
@@ -41,7 +51,8 @@ First, Search and install the Early AI extension and log-in to your account
 Early AI Extension – initial setup
 
  
-## Post initial Early’s extension setup:
+## Step 4 - Using the extension
+
 **Browse the extension screens** 
 1.	  *CODE EXPLORER* Tree of all the testable methods
 * Shows all testable (public) methods in the project 
@@ -57,7 +68,8 @@ o	Note that there is one sample unit tests under apps/test/sample.early.test.ts.
 ![extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be672d69d5cabd86f1081_Extension.png)
 Early AI Extension
 
-## Generating unit tests for methods
+## Step 5 - Generating your first tests
+**Generating unit tests for methods**
 *There are two ways to generate unit tests*
 * [play button image here] Play button via the code explorer, next to the public method name.
 * [Generate test image here]  Code lens above each public method name on the code viewer
@@ -81,6 +93,6 @@ Red could be erroneous unit tests (bare with us until we improve the product) OR
 ![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be6711082e0f1590fd508_RefreshCoverage.png)
 Refreshing coverage
 
-## Next:
+## What's next Next:
 Follow the setup and configuration document to setup your own projects and start generating meaningful unit tests for your code.
 
