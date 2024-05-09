@@ -94,6 +94,7 @@ Once you generate a test a VSCode notification bar will pop up on the bottom rig
 ![GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d8cdcc01126dc9fcdb_GenerateTests.png)
 <br> 
 
+
 ## Step 6 -  Generate and refreshing Coverage 
 **Now you are ready to generate tests for this entire sample project**
 
@@ -109,6 +110,7 @@ Red could be erroneous unit tests (bare with us until we improve the product) OR
 ![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d85829aad6b012e157_RefreshCoverage.png)
 <br>
 
+
 ## What's Next:
-Follow the ![setup and configuration document](https://www.startearly.ai/elements/setup-and-configuration-guide) to setup your own projects and start generating meaningful unit tests for your code.
+Follow the [setup and configuration document](https://www.startearly.ai/elements/setup-and-configuration-guide) to setup your own projects and start generating meaningful unit tests for your code.
 
