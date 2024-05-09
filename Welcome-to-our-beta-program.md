@@ -1,7 +1,12 @@
 
+
 # Welcome to Early's private Beta Program.
 
   
+## Ready to start?
+If you are already familiar and enrolled into our beta program you are welcome to start immediately with our  
+ [getting started](https://www.startearly.ai/elements/getting-started) guide and generate your first 20 unit tests by a click.
+
 
 ## What is Early?
 
@@ -17,7 +22,7 @@ Catch bugs early and reduce the fix costs.
   
 
 ## Key features/benefits
-
+To be filled.
   
 
 ## Getting started with Early
@@ -36,16 +41,10 @@ For configuring your own project go to our advaced [setup and configuration guid
 
   
 
-We welcome your feedback and very much would like to here from you.
-
-You can reach us via our marketplace home page [link]
-
-File issues at github [link]
-
-or email us at [support@startearly.ai](mailto:support@startearly.ai)
-
-  
-  
+* We welcome your feedback and very much would like to here from you.
+* You can reach us via our marketplace home page [link]
+* File issues and enhancements requests on [GitHub](https://github.com/earlyai/earlyai-vscode-release/issues)
+* Or email us at [support@startearly.ai](mailto:support@startearly.ai)
   
 
 ## how can i join the private beta
