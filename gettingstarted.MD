@@ -1,3 +1,4 @@
+
 # Getting started
 
 ## Generating your first 20 unit tests using Early’s VSCode Extension
@@ -15,8 +16,10 @@ npm install
 ```
 Run Build
 ```
-
-![npm](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be67189425152535939b4_npmscript.png)
+<figure>
+    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be67189425152535939b4_npmscript.png"
+         alt="build the project" width=400 >
+</figure>
 * You should get the message 
 ```webpack 5.90.1 compiled successfully in xxx ms”```
 
@@ -30,8 +33,10 @@ First, Search and install the Early AI extension and log-in to your account
 * Run the tests – verify they are green (if not go back to project setup stage)
 * Click on the Coverage Refresh button
 * Reload Window (>Developer: Reload Window)
-
-![Extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be671b200d5941d97168b_initialSetup.png)
+<figure>
+    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be671b200d5941d97168b_initialSetup.png"
+         alt="build the project" width=800 >
+</figure>
 
 Early AI Extension – initial setup
 
