@@ -54,11 +54,11 @@ Ensure your Jest configuration is properly set up to work with TypeScript and th
 ## 3. Preparing to Use the Extension
 Steps to Follow Before Generating Tests:
 
-Step 1.	Activate the Extension:
+1. Activate the Extension:
 * Open your TypeScript project in Visual Studio Code.
 * Switch to the extension's view.
 
-Step 2. Verify Test Setup:
+2. Verify Test Setup:
 * Navigate to the test explorer in the extension's sidebar.
 * Ensure you can successfully run existing tests. If tests do not run properly, you may need to adjust your Jest configuration according to the errors displayed in the. [troubleshooting section].
 
