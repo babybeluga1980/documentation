@@ -93,6 +93,6 @@ Red could be erroneous unit tests (bare with us until we improve the product) OR
 ![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be6711082e0f1590fd508_RefreshCoverage.png)
 Refreshing coverage
 
-## What's next Next:
+## What's Next:
 Follow the setup and configuration document to setup your own projects and start generating meaningful unit tests for your code.
 
