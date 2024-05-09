@@ -103,18 +103,18 @@ There are two ways to generate unit tests
 <span>2. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663cb680268c302f4e39b758_GenerateTest1.png" width=100 />  <span>  "Generate tests" Code lens above each public method/function name on the code editor.  
  </span>
 
-Once you generate a test a VSCode notification bar will pop up on the bottom right corner until the generation is completed. Test generation can take anyways from 20 to 60 seconds depending on the complexity of the code base and API response time.
+Once you generate a test a VSCode notification bar will pop up on the bottom right corner until the generation is completed. Test generation can take between 20 to 60 seconds depending on the complexity of the code base and API response time.
 ![GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d8cdcc01126dc9fcdb_GenerateTests.png)
 <br> 
 
 
 
-## Step 6 -  Generate and Refreshing Coverage 
+## Step 6 -  Generate and Refresh Coverage 
 **Now you are ready to generate tests for this entire sample project**
 
 * Click on each public method
 * Refresh the coverage once the generation is completed
-* Review the test generated and their respective code coverage.
+* Review the tests generated and their respective code coverage.
 
 Currently we generate “Green” and “Red” unit tests.
 
