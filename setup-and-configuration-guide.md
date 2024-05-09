@@ -58,7 +58,7 @@ Steps to Follow Before Generating Tests:
 	* Switch to the extension's view.
 2. Verify Test Setup:
 	* Navigate to the test explorer in the extension's sidebar.
-	* Ensure you can successfully run existing tests. If tests do not run properly, you may need to adjust your Jest configuration according to the errors displayed in the [troubleshooting section].
+	* Ensure you can successfully run existing tests. If tests do not run properly, you may need to adjust your Jest configuration according to the errors displayed in the. [troubleshooting section].
 
 ## 4. Setting Up Initial Tests:
 If your project lacks any tests, begin by creating a basic test file or taking the ***src/sample.test.ts*** file from the [Sample project](https://www.startearly.ai/elements/getting-started)
