@@ -1,8 +1,8 @@
 
 
 
-# Welcome to Early's Private Beta Program.
-
+# Welcome to Early's Private Beta Program
+<br>
   
 ## Ready to Start?
 
