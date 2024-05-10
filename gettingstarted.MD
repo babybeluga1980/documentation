@@ -3,8 +3,9 @@
 
 
 # Getting started
-<br>
+
 ## 1. Sample Project Setup
+
 **Generate your first 20 unit tests using Early’s VSCode Extension**
 
 This document will enable you to generate your first 20 unit tests in less than 5 minutes using Early's VSCode extension via a sample pre-configured TypeScript/Jest project.
