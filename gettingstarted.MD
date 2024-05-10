@@ -3,7 +3,7 @@
 
 
 # Getting started
-
+<br>
 ## Step 1 - Sample Project Setup
 **Generate your first 20 unit tests using Early’s VSCode Extension**
 
@@ -47,7 +47,7 @@ Search and install the **EarlyAI** extension and log-in to your account
 ## Step 3 - Run the Project
 
 * Click on Early Extension icon on the left bar
-* Run the tests – verify they are green (if not go back to [Sample Project Setup](#Step-1---Sample-project-setup) )
+* Run the tests – verify they are green (if not go back to [Sample Project Setup](#step1sampleprojectsetup) )
 * Click on the Coverage Refresh button
 * Reload Window (>Developer: Reload Window)
 <figure>
