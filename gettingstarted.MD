@@ -25,7 +25,7 @@ npm install
 * You should get the message 
 ```webpack 5.90.1 compiled successfully in xxx ms```
 <figure>
-<img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663d95813c5bff2e1e655fb4_Marketplace1.png" alt="build the project" width=400 >
+<img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be67125f8f71f7cdb2aad_buildnest.png" alt="build the project" width=400 >
 </figure>
 
 > The sample project Setup is completed
@@ -39,7 +39,7 @@ Search and install the **EarlyAI** extension and log-in to your account
 * Search for the extension on VSCode market place and install it
 * Open the extension and log in using the welcome-to-our-beta email information (ask to join our beta [here](https://www.startearly.ai/beta) if you don't have access)
 <figure>
-    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c6ec6c27fae3ce11aec89_Market%20place.png"
+    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663d95813c5bff2e1e655fb4_Marketplace1.png"
          alt="build the project" width=400 >
 </figure>
 <br>
