@@ -4,7 +4,7 @@
 
 # Getting started
 <br>
-## Step 1 - Sample Project Setup
+## 1. Sample Project Setup
 **Generate your first 20 unit tests using Early’s VSCode Extension**
 
 This document will enable you to generate your first 20 unit tests in less than 5 minutes using Early's VSCode extension via a sample pre-configured TypeScript/Jest project.
@@ -32,7 +32,7 @@ npm install
 <br>
 
 
-## Step 2 - Install the Extension
+## 2. Install the Extension
 **Install Early AI VSCode Extension via MSFT Marketplace**
 
 Search and install the **EarlyAI** extension and log-in to your account
@@ -44,7 +44,7 @@ Search and install the **EarlyAI** extension and log-in to your account
 </figure>
 <br>
 
-## Step 3 - Run the Project
+## 3. Run the Project
 
 * Click on Early Extension icon on the left bar
 * Run the tests – verify they are green (if not go back to [Sample Project Setup](#step1sampleprojectsetup) )
@@ -58,7 +58,7 @@ Search and install the **EarlyAI** extension and log-in to your account
 
 
  
-## Step 4 - Using the Extension
+## 4. Using the Extension
 
 **Navigate through the extension views** 
 
@@ -88,7 +88,7 @@ Search and install the **EarlyAI** extension and log-in to your account
 
 
 
-## Step 5 - Generating your First Tests
+## 5. Generating your First Tests
 **Generating unit tests for methods/functions**
 
 There are two ways to generate unit tests
@@ -105,7 +105,7 @@ Once you generate a test a VSCode notification bar will pop up on the bottom rig
 
 
 
-## Step 6 -  Generate and Refresh Coverage 
+## 6. Generate and Refresh Coverage 
 **Now you are ready to generate tests for this entire sample project**
 
 * Click on each public method
