@@ -39,7 +39,7 @@ npm install
 
 * Search for the extension on VSCode market place and install it
 <figure>
-    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663d95813c5bff2e1e655fb4_Marketplace1.png"
+    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f5c0353275a78f26c72b6_ExtensionMarketplace.png"
          alt="build the project" width=400 >
 </figure>
 <br>
