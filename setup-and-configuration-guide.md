@@ -124,5 +124,5 @@ If you encounter a bug or an issue, please report it via GitHub Issues:
 5.	Submit the request
 
 
-###Looking forward to hearing from you
-###The Early team.
+### Looking forward to hearing from you
+### The Early team.
