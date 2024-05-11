@@ -10,14 +10,14 @@
 
 This document will enable you to generate your first 20 unit tests in less than 5 minutes using Early's VSCode extension via a sample pre-configured TypeScript/Jest project.
 
-Sample Project setup
-* Clone early [sample-project](https://github.com/earlyai/sample-project) 
+**Sample Project setup:**
+* Clone Early's [sample-project](https://github.com/earlyai/sample-project) 
 * Run the following command on the VSCode terminal:
 ```
 npm install
 ```
 
-*	Run Build On the NPM SCRIPTS tab on VSCode Explorer
+*	Run Build On the NPM SCRIPTS tab on VSCode Explorer:
 <figure>
     <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663be67189425152535939b4_npmscript.png"
          alt="build the project" width=400 >
@@ -34,9 +34,9 @@ npm install
 
 
 ## 2. Install the Extension
-**Install Early AI VSCode Extension via MSFT Marketplace**
+**Install Early AI VSCode Extension via MSFT Marketplace:**
 
-Search and install the **EarlyAI** extension and log-in to your account
+* Search and install the **EarlyAI** extension and log-in to your account
 * Search for the extension on VSCode market place and install it
 * Open the extension and log in using the welcome-to-our-beta email information (ask to join our beta [here](https://www.startearly.ai/beta) if you don't have access)
 <figure>
@@ -47,10 +47,10 @@ Search and install the **EarlyAI** extension and log-in to your account
 
 ## 3. Run the Project
 
-* Click on Early Extension icon on the left bar
-* Run the tests – verify they are green (if not go back to [Sample Project Setup](#step1sampleprojectsetup) )
-* Click on the Coverage Refresh button
-* Reload Window (>Developer: Reload Window)
+* 1. Click on Early Extension icon on the left bar
+* 2. Run the existing sample tests – verify they are green (if not go back to [Sample Project Setup](#1sampleprojectsetup) )
+* 3. Click on the Coverage Refresh button
+* 4. Reload Window (>Developer: Reload Window)
 <figure>
     <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663cb10312e36b9357f338a2_RefreshCoverage.png"
          alt="build the project" width=800 >
@@ -63,10 +63,8 @@ Search and install the **EarlyAI** extension and log-in to your account
 
 **Navigate through the extension views** 
 
- <span>1. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c7e0c461b99a8e3ccaea1_Code%20Explorer.png" width=100 />  <span>  A tree of all the testable methods 
- </span>
+ <span>1. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c7e0c461b99a8e3ccaea1_Code%20Explorer.png" width=100 />  <span>  A tree of all the testable methods </span>
  * Shows all testable (public) methods and/or functions in the project 
-
 
 <span>2. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663cb3694d4df63f692b4a2e_100percent.png" width=40 />  <span>   The percentage next to each method/function shows the code coverage of that method/function 
  </span>
@@ -106,18 +104,19 @@ Once you generate a test a VSCode notification bar will pop up on the bottom rig
 
 
 
-## 6. Generate and Refresh Coverage 
+## 6. Generate Tests and Refresh Coverage 
 **Now you are ready to generate tests for this entire sample project**
 
 * Click on each public method
-* Refresh the coverage once the generation is completed
+* Coverage will be refreshed automaticaly once the generation is completed
 * Review the tests generated and their respective code coverage.
 
 Currently we generate “Green” and “Red” unit tests.
 
-Green are healthy passing unit tests
+* Green are healthy passing unit tests
 
-Red could be “good” tests that are revealing a bug or erroneous unit tests (bear with us until we improve the product).
+* Red could be “good” tests that are revealing a bug or erroneous unit tests (bear with us as we improve the product).
+
 ![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d85829aad6b012e157_RefreshCoverage.png)
 <br>
 
