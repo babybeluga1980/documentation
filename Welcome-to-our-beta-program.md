@@ -7,14 +7,14 @@
 ## Ready to Start?
 
 
-Use our quick [getting started guide](https://www.startearly.ai/elements/getting-started) to help you effortlessly generate your first 20 unit tests on a sample-project with just 10 minutes of setup.
+Use our quick [getting started guide](https://www.startearly.ai/elements/getting-started) to help you effortlessly generate your first 20 unit tests on a sample-project in 5 minutes.
 
-To create tests on your own project, refer to our advanced [setup and configuration guide](https://www.startearly.ai/elements/setup-and-configuration-guide). 
+To generate tests on your own project, refer to our advanced [setup and configuration guide](https://www.startearly.ai/elements/setup-and-configuration-guide). 
 
 
 ## What is Early?
 
-Early automatically generates and maintains, verified and validated unit tests, so you can do what you do best: code smarter and launch higher-quality products, earlier.
+Early automatically generates and maintains, verified and validated unit tests, so you can do what you do best: **code smarter and launch higher-quality products, earlier.**
 
 
 ## Key Features/Benefits
