@@ -61,7 +61,7 @@ npm install
 * 3. Click on the Coverage Refresh button
 * 4. Reload Window (>Developer: Reload Window)
 <figure>
-    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663cb10312e36b9357f338a2_RefreshCoverage.png"
+    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f5e1fc41f030d44eeb1c6_InitialSetup.png"
          alt="build the project" width=800 >
 </figure>
 <br>
