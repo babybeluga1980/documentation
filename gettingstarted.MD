@@ -11,6 +11,7 @@
 This document will enable you to generate your first 20 unit tests in less than 5 minutes using Early's VSCode extension via a sample pre-configured TypeScript/Jest project.
 
 **Sample Project setup:**
+* Make sure you have [VSCode](https://code.visualstudio.com/download) Version 1.88 and later installed
 * Clone Early's [sample-project](https://github.com/earlyai/sample-project) 
 * Run the following command on the VSCode terminal:
 ```
