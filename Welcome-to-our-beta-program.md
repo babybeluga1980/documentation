@@ -7,9 +7,9 @@
 ## Ready to Start?
 
 
-Use our quick getting started [guide](https://www.startearly.ai/elements/getting-started), to help you effortlessly create your first 20 unit tests with just 5 minutes of setup
+Use our quick [getting started guide](https://www.startearly.ai/elements/getting-started) to help you effortlessly generate your first 20 unit tests on a sample-project with just 10 minutes of setup.
 
-To create tests on your own project, refer to our advanced setup and configuration [guide](https://www.startearly.ai/elements/setup-and-configuration-guide) 
+To create tests on your own project, refer to our advanced [setup and configuration guide](https://www.startearly.ai/elements/setup-and-configuration-guide). 
 
 
 ## What is Early?
