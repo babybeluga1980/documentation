@@ -88,10 +88,10 @@ npm install
  </span>
 
 
-* Clicking the “play” button on the text explorer tree executes all tests below that level.
-* Note that there is one sample unit tests under ****src/sample.test.ts****. this is required for the initialization of the extension. 
+* Clicking the “play” button on the test explorer tree executes all tests below that level
+* Note that there is one sample unit tests under ****src/sample.test.ts****. this is required for the initialization of the extension
 
-![extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d9cdcc01126dc9fcf7_Extension.png)
+![extension](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f60f6b08e9371da80de5d_Extension.png)
 <br>
 
 
