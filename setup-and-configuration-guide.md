@@ -87,7 +87,6 @@ To effectively use the extension for generating unit tests, follow these simple 
 * You can generate unit tests in two ways:
   <br>
 a.	Click on the button next to the method name in the code explorer
-<br>
 b.	Click on the "Generate tests" code-lens displayed above the public method name
 #### 4. Start the Test Generation Process:
 * Press the 'play' button adjacent to the function or method in the tree view. This initiates the test generation
