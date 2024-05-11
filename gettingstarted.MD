@@ -108,7 +108,7 @@ There are two ways to generate unit tests
  </span>
 
 Once you generate a test a VSCode notification bar will pop up on the bottom right corner until the generation is completed. Test generation can take between 20 to 60 seconds depending on the complexity of the code base and API response time.
-![GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d8cdcc01126dc9fcdb_GenerateTests.png)
+![GeneratingTests](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f637ffd4991715c89b108_GeneratingTests.png)
 <br> 
 
 
