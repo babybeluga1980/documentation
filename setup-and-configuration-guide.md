@@ -7,7 +7,7 @@ This Visual Studio Code extension is designed to automatically generate unit tes
 
 ## 1. Prerequisites
 Before installing the extension, ensure you have the following prerequisites installed:
-* VSCode
+* [VSCode](https://code.visualstudio.com/download) (Version 1.88 and later)
 * NodeJS
 * Jest
 * TypeScript
