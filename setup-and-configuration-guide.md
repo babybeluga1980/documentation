@@ -87,6 +87,7 @@ To effectively use the extension for generating unit tests, follow these simple 
 * You can generate unit tests in two ways:
   <br>
 a.	Click on the button next to the method name in the code explorer
+<br>
 b.	Click on the "Generate tests" code-lens displayed above the public method name
 #### 4. Start the Test Generation Process:
 * Press the 'play' button adjacent to the function or method in the tree view. This initiates the test generation
@@ -108,16 +109,20 @@ If you encounter any issues while using the extension, consider the following st
 If the problem persists after these checks, please consider reporting the issue on the GitHub repository with detailed information about your setup and the errors encountered.
 
 ## 7. Reporting Issues
-If you encounter a bug or an issue, please report it via [GitHub Issues](https://github.com/earlyai/earlyai-vscode-release/issues):
+If you encounter a bug or an issue, please report it via GitHub Issues:
 1.	Visit the [GitHub](https://github.com/earlyai/earlyai-vscode-release/issues) repository
 2.	Navigate to the 'Issues' section
 3.	Click on 'New Issue'
 4.	Provide a descriptive title and a detailed description of the issue. Attach screenshots or error logs, if possible, to help us understand the problem better
 5.	Submit the issue
 ## 8. Suggesting Enhancements
-**We are always looking for ways to make our extension more useful:**
+**We are always looking for ways to make our product more powerful:**
 1.	Visit the [GitHub](https://github.com/earlyai/earlyai-vscode-release/issues) repository
 2.	Go to the 'Issues' section and check if a similar enhancement has already been proposed
 3.	If not, create a new issue by selecting the 'Feature request' template
-4.	Describe your idea with as many details as possible, explaining how it would benefit users of the extension
+4.	Describe your idea with as many details as possible, explaining how it would benefit our users
 5.	Submit the request
+
+
+###Looking forward to hearing from you
+###The Early team.
