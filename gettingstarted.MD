@@ -37,14 +37,22 @@ npm install
 ## 2. Install the Extension
 **Install Early AI VSCode Extension via MSFT Marketplace:**
 
-* Search and install the **EarlyAI** extension and log-in to your account
 * Search for the extension on VSCode market place and install it
-* Open the extension and log in using the welcome-to-our-beta email information (ask to join our beta [here](https://www.startearly.ai/beta) if you don't have access)
 <figure>
     <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663d95813c5bff2e1e655fb4_Marketplace1.png"
          alt="build the project" width=400 >
 </figure>
 <br>
+
+* Open the extension and log in using the welcome-to-our-beta email information (ask to join our beta [here](https://www.startearly.ai/beta) if you don't have access)
+<figure>
+    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f5b7dd85cd43ed1487cb5_login.png"
+         alt="build the project" width=400 >
+</figure>
+<br>
+
+* First login
+
 
 ## 3. Run the Project
 
