@@ -122,11 +122,10 @@ Once you generate a test a VSCode notification bar will pop up on the bottom rig
 
 Currently we generate “Green” and “Red” unit tests.
 
-* Green are healthy passing unit tests
+* <span style="color: green;">Green</span> are healthy passing unit tests
+* <span style="color: red;">Red</span> Red could be **good** tests that are revealing a bug or erroneous unit tests (bear with us as we improve the product).
 
-* Red could be “good” tests that are revealing a bug or erroneous unit tests (bear with us as we improve the product).
-
-![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663c87d85829aad6b012e157_RefreshCoverage.png)
+![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f65be69fa8f2974a780c7_RefreshCoverage.png)
 <br>
 
 
