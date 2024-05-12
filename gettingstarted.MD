@@ -128,6 +128,10 @@ Currently we generate “Green” and “Red” unit tests.
 ![RefreshCoverage](https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f65be69fa8f2974a780c7_RefreshCoverage.png)
 <br>
 
+## Known issues
+* Sometimes a second login is required after refreshing the window on step 4.4
+* While we are striving to 100% coverage (all test generation succeeded) sometimes our model likes to think outside the box, a bit too far outside... Early's fix in progress!!"
+
 
 ## What's Next:
 Follow the [setup and configuration document](https://www.startearly.ai/elements/setup-and-configuration-guide) to setup your own projects and start generating meaningful unit tests for your code.
