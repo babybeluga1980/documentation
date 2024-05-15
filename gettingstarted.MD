@@ -130,6 +130,7 @@ Currently we generate “Green” and “Red” unit tests.
 <br>
 
 ## Known issues
+* Windows support - Almost there! hang on for the next release
 * Sometimes a second login is required after refreshing the window on step 4.4
 * While we are striving to 100% coverage (all test generation succeeded) sometimes our model likes to think outside the box, a bit too far outside... Early's fix in progress!!"
 * for more information Check our [Github issues](https://github.com/earlyai/earlyai-vscode-release/issues) or the changelog on VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Early-ai.EarlyAI)
