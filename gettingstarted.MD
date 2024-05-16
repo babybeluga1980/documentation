@@ -57,8 +57,7 @@ npm install
 
 * We highly recommend that you also install the Jest extension, which  supports full [jest](https://jestjs.io/ "https://jestjs.io/") features in vscode environment to make testing more intuitive
 <figure>
-    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f5c0353275a78f26c72b6_ExtensionMarketplace.png"
-         alt="build the project" width=400 >
+    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/66466550cfe7ddcd60a65d88_Jest-extension.png" width=400 >
 </figure>
 <br>
 
