@@ -68,7 +68,7 @@ npm install
 * 2. Click on the Coverage Refresh button
 * 3. View the files and method tree on the project tree
 <figure>
-    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/663f5e1fc41f030d44eeb1c6_InitialSetup.png"
+    <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/664665e6cfe7ddcd60a6d3d3_ExtensionSetup.png"
          alt="build the project" width=800 >
 </figure>
 <br>
