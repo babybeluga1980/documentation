@@ -32,7 +32,7 @@ Early automatically generates and maintains, verified and validated unit tests, 
 ## Providing Feedback
 
 * We welcome your feedback and very much would like to hear from you
-* You can reach us via our VSCode  at [marketplace home page](https://marketplace.visualstudio.com/items?itemName=Early-ai.early-ai) or searching Early-AI in VSCode 
+* You can reach us via our VSCode  at [marketplace home page](https://marketplace.visualstudio.com/items?itemName=Early-AI.EarlyAI) or searching Early-AI in VSCode 
 * File issues and enhancements requests on [GitHub](https://github.com/earlyai/earlyai-vscode-release/issues)
 * Email us at [support@startearly.ai](mailto:support@startearly.ai)
   
