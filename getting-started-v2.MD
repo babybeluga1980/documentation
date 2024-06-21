@@ -24,7 +24,7 @@ npm install
 
 * Search for the **EarlyAI** extension on VSCode market place and install it
 <figure>
-    <img src="https://raw.githubusercontent.com/babybeluga1980/documentation/main/media/extension-marketplace.png"
+    <img src="https://raw.githubusercontent.com/babybeluga1980/documentation/main/images/extension-marketplace.png"
          alt="marketplace" width=400 >
 </figure>
 <br>
@@ -91,9 +91,9 @@ npm install
 ## 5. Generating your First Tests
 **Generating unit tests for methods/functions**
 
-There are two ways to generate unit tests
+There are three ways to generate unit tests
 
- <span>1. </span> <img src="https://raw.githubusercontent.com/babybeluga1980/documentation/main/media/icon-generatetests.png" width=20 />  <span>  Play button via the code explorer, next to the public method/function name.  
+<span>1. </span> <img src="https://raw.githubusercontent.com/babybeluga1980/documentation/main/media/icon-generatetests.png" width=20 />  <span>  Play button via the code explorer, next to the public method/function name.  
  </span>
 
 <span>2. </span> <img src="https://raw.githubusercontent.com/babybeluga1980/documentation/main/media/icon-codelens-gentest.png" width=140 />  <span>  "Early AI: Generate tests" Code lens above each public method/function name on the code editor.  
@@ -118,7 +118,8 @@ Currently we generate “Green” and “Red” unit tests.
 * <span style="color: green;">Green</span> are healthy passing unit tests
 * <span style="color: red;">Red</span> Red could be **good** tests that are revealing a bug or erroneous unit tests (bear with us as we improve the product).
 
-* you can go-to the generated tests in 3 ways.
+You can go-to the generated tests in 3 ways.
+
 <span>1. </span> <img src="https://raw.githubusercontent.com/babybeluga1980/documentation/main/media/icon-gototests.png" width=20 />  <span>  "Go-to tests" go to tests button next to the method name </span>
 
 
