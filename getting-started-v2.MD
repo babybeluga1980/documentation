@@ -81,12 +81,6 @@ npm install
 <br>
 
 
- <span>5. </span> <img src="https://uploads-ssl.webflow.com/6583e7ad2ff3f8a81492938e/66465deb8f63471d9904c1cf_jesticon.png" width=20 />  <span>  Jest extension 
- </span>
-
-* View and run all existing unit tests. 
-<br>
-
 
 ## 5. Generating your First Tests
 **Generating unit tests for methods/functions**
@@ -106,9 +100,9 @@ Once you generate a test a VSCode notification bar will pop up on the bottom rig
 ![GeneratingTests](https://raw.githubusercontent.com/babybeluga1980/documentation/main/media/screen-generatingtests.png)
 <br> 
 
-## 6. Review the coverage and generated tests 
+## 6. Review the generated tests 
 
-**Now you are ready to view the tests generated**
+**Now you are ready to view the tests generated and respective coverage**
 
 * After generating the tests the coverage would refreshed automatically
 * Review the tests and respective coverage on Early Extension
