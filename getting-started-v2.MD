@@ -113,12 +113,12 @@ Once you generate a test a VSCode notification bar will pop up on the bottom rig
 * After generating the tests the coverage would refreshed automatically
 * Review the tests and respective coverage on Early Extension
 
-Currently we generate “Green” and “Red” unit tests.
+EarlyAI generate complex tests that includes mocks, logic, happy path and edge cases. We also  generate “Green” and “Red” unit tests.
 
 * <span style="color: green;">Green</span> are healthy passing unit tests
 * <span style="color: red;">Red</span> Red could be **good** tests that are revealing a bug or erroneous unit tests (bear with us as we improve the product).
 
-You can go-to the generated tests in 3 ways.
+You can go-to the generated tests and view them in 3 ways.
 
 <span>1. </span> <img src="https://raw.githubusercontent.com/babybeluga1980/documentation/main/media/icon-gototests.png" width=20 />  <span>  "Go-to tests" go to tests button next to the method name </span>
 
@@ -132,6 +132,7 @@ You can go-to the generated tests in 3 ways.
 ![ViewTests](https://raw.githubusercontent.com/babybeluga1980/documentation/main/media/Screen-viewtests.png)
 <br>
 
+Run your tests via your preferred jest runner (command line or Jest extension) to view and troubleshoot the various tests.
 ## Known issues
 * While we are striving to 100% coverage (all test generation succeeded) sometimes our model likes to think outside the box, a bit too far outside... we will still show you the results, they could be impressive.
 * for more information Check our [Github issues](https://github.com/earlyai/earlyai-vscode-release/issues) or the changelog on VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Early-ai.EarlyAI)
