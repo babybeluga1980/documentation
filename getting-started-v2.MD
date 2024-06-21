@@ -131,6 +131,6 @@ Run your tests via your preferred jest runner (command line or Jest extension) t
 * While we are striving to 100% coverage (all test generation succeeded) sometimes our model likes to think outside the box, a bit too far outside... we will still show you the results, they could be impressive.
 * for more information Check our [Github issues](https://github.com/earlyai/earlyai-vscode-release/issues) or the changelog on VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Early-ai.EarlyAI)
 
-## What's Next:
+## What's Next
 Follow the [setup and configuration document](https://www.startearly.ai/elements/setup-and-configuration-guide) to setup your own projects and start generating meaningful unit tests for your code.
 
