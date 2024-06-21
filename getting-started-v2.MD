@@ -25,7 +25,7 @@ npm install
 * Search for the **EarlyAI** extension on VSCode market place and install it
 <figure>
     <img src="https://raw.githubusercontent.com/babybeluga1980/documentation/main/images/extension-marketplace.png"
-         alt="build the project" width=400 >
+         alt="marketplace" width=400 >
 </figure>
 <br>
 
